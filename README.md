@@ -12,8 +12,8 @@
   </picture>
 </p>
 
-- 🌱 I’m currently learning **AWS, RabbitMQ, Spring Cloud, Redis**
-- 💬 Ask me about **Spring Framework, Express.js, .NET, Django, React**
+- 🌱 I’m currently learning **AWS, RabbitMQ, Apache Kafka, Spring Cloud, Redis**
+- 💬 Ask me about **Spring Framework, Django, React**
 - 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1m1SIWZynRa2-cAbnuRC2Ksf7PqxX0Xro/view?usp=sharing)
 
 <h2>Statistics:</h2>
@@ -46,7 +46,6 @@
 <a href="#">
   <p align="left"> 
     <img alt="Spring" src="https://img.shields.io/badge/-Spring-0?style=flat-square&logo=Spring&logoColor=white" />
-    <img alt=".NET" src="https://img.shields.io/badge/-Redis-DC382C?style=flat-square&logo=Redis&logoColor=white" />
     <img alt="Keycloak" src="https://img.shields.io/badge/-Keycloak-222?style=flat-square&logo=Keycloak&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-DE5B54?style=flat-square&logo=JUnit&logoColor=white" />
