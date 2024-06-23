@@ -33,7 +33,7 @@
 
 <h2>Leetcode statistics:</h2>
 <a href="#">
-  <p align="center"><img src="[https://leetcode-stats-six.vercel.app/api?username=karakatalmasova&theme=dark](https://leetcard.jacoblin.cool/karakatalmasova?theme=light&font=Allura)" alt="karakatalmasova" /></p>
+  <p align="center"><img src="https://leetcard.jacoblin.cool/karakatalmasova?font=patrick_hand" alt="dulatbay" /></p>
 </a>
 
 <h3 align="left">Connect with me:</h3>
