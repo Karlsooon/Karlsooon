@@ -2,7 +2,7 @@
 <p align="left" style="-webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;"> <img src="https://komarev.com/ghpvc/?username=Karlsooon&plastic" alt="Karlsooon" /> </p>
 </a>
 <h1 align="center">Hi 👋, I'm Karakat</h1>
-<h3 align="center">FULL STACK Software Developer</h3>
+<h3 align="center">BACKEND Developer</h3>
 
 <p align="center">
   <picture>
